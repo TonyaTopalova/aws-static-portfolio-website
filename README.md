@@ -41,9 +41,6 @@ Add your CloudFront URL here
 ### Live Website
 ![Live Website](screenshots/portfolio-live-site.png)
 
-### Architecture Diagram
-![Architecture Diagram](screenshots/static-website-architecture.png)
-
 ### S3 Bucket Overview
 ![S3 Bucket](screenshots/s3-bucket-overview.png)
 
